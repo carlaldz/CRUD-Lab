@@ -1,0 +1,2 @@
+import { StrictMode } from "react";
+
